@@ -1,1 +1,5 @@
 * text=auto eol=lf
+
+# graphics
+*.ico binary
+*.png binary
