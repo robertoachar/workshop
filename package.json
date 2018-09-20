@@ -1,0 +1,35 @@
+{
+  "name": "workshop",
+  "version": "1.0.0",
+  "description": "Workshop template.",
+  "author": "Roberto Achar <robertoachar@gmail.com>",
+  "homepage": "https://github.com/robertoachar/workshop#readme",
+  "keywords": [
+    "node"
+  ],
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "lint": "eslint src/**/*.js",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robertoachar/workshop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/robertoachar/workshop/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "5.6.0",
+    "eslint-config-airbnb-base": "13.1.0",
+    "eslint-config-prettier": "3.0.1",
+    "eslint-plugin-import": "2.14.0",
+    "eslint-plugin-prettier": "2.6.2",
+    "prettier": "1.14.3"
+  },
+  "license": "MIT"
+}
