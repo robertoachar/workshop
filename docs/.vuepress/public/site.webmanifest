@@ -1,9 +1,6 @@
 {
   "name": "Workshop",
   "short_name": "Workshop",
-  "display": "standalone",
-  "background_color": "#135e86",
-  "theme_color": "#135e86",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
@@ -15,5 +12,8 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
+  ],
+  "theme_color": "#135e86",
+  "background_color": "#135e86",
+  "display": "standalone"
 }
