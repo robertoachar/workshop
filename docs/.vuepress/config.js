@@ -15,6 +15,12 @@ module.exports = {
           children: ['']
         }
       ]
+    },
+    serviceWorker: {
+      updatePopup: {
+        message: 'Novo conteúdo disponível.',
+        buttonText: 'Atualizar'
+      }
     }
   }
 };
