@@ -20,10 +20,11 @@ $ npm install
 
 - Run scripts
 
-| Action                 | Usage          |
-| ---------------------- | -------------- |
-| Start development mode | `npm start`    |
-| Lint code              | `npm run lint` |
+| Action                 | Usage           |
+| ---------------------- | --------------- |
+| Start development mode | `npm start`     |
+| Lint code              | `npm run lint`  |
+| Build for production   | `npm run build` |
 
 # Author
 
